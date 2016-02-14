@@ -11,7 +11,8 @@ email: danny@kastelo.co
 description: > # this means to ignore newlines until "baseurl:"
   We build awesome iOS and Rails applications!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kastelolabs.co" # the base hostname & protocol for your site
+url: "http://kastelolabs.co" # the base hostname & protocol for your site
+# enforce_ssl: kastelolabs.co
 twitter_username: kastelolabs
 github_username:  kastelolabs
 
